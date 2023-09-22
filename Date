@@ -1,0 +1,5 @@
+git add -A
+git commit -m "commit message"
+Change time or date of your latest commit
+
+GIT_COMMITTER_DATE="Wed Sep 9 22:00 2020 +0530" git commit --amend --date="Wed Sep 9 22:00 2020 +0530"
